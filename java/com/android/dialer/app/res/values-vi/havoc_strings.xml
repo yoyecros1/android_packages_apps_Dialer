@@ -16,7 +16,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="other_settings_label">Cài đặt khác</string>
     <!-- Dialer postcall -->
-    <string name="enable_post_call_title">Hiện cuộc gọi trên thanh snackbar</string>
+    <string name="enable_post_call_title">Hiện cuộc gọi trên thanh snack</string>
     <string name="enable_post_call_summary">Bật thông tin cuộc gọi ở dưới cùng của màn hình</string>
     <string name="auto_call_recording_title">Tự động ghi âm cuộc gọi</string>
     <!-- Proximity speaker -->
@@ -28,7 +28,7 @@
     <string name="prox_auto_speaker_delay_summary">Loa thoại sẽ được bật trong <xliff:g id="number">%d </xliff:g> ms</string>
     <string name="prox_auto_speaker_incall_only_title">Chỉ trong khi gọi</string>
     <string name="prox_auto_speaker_incall_only_summary_on">Trong các cuộc gọi đi, loa ngoài sẽ chỉ bật sau khi bên nhận trả lời</string>
-    <string name="prox_auto_speaker_incall_only_summary_off">Loa ngoài sẽ được kích hoạt trong tất cả trạng thái nhấc máy gọi ( mặc định)</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">Loa ngoài sẽ được kích hoạt trong tất cả trạng thái nhấc máy gọi (mặc định)</string>
     <!-- Proximity Auto Answer -->
     <string name="prox_auto_answer_incall_only_title">Trả lời tự động</string>
     <string name="prox_auto_answer_incall_only_summary">Sử dụng cảm biến tiệm cận để tự động trả lời</string>
